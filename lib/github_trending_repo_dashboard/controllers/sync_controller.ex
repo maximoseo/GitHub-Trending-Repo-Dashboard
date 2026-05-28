@@ -48,6 +48,8 @@ defmodule GitHubTrendingRepoDashboard.SyncController do
     end
   end
 
+  # Dashboard UI calls POST /api/sync without a secret. When SYNC_SECRET is set,
+  # only reject requests that send a wrong x-sync-secret header (optional hardening for curl).
   defp verify_sync_secret(conn) do
     expected = System.get_env("SYNC_SECRET")
 
@@ -55,6 +57,7 @@ defmodule GitHubTrendingRepoDashboard.SyncController do
       :ok
     else
       case get_req_header(conn, "x-sync-secret") do
+        [] -> :ok
         [^expected] -> :ok
         _ -> {:error, :unauthorized}
       end
