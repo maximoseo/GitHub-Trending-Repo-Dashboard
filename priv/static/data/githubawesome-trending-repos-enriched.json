@@ -1,0 +1,4319 @@
+{
+  "generated_at": "2026-05-28T12:14:13.324Z",
+  "cutoff": "2025-11-26",
+  "sync_state": {
+    "last_sync_at": null,
+    "last_sync_status": "idle",
+    "last_sync_run_id": null,
+    "processed_video_ids": [
+      "wu3522-is9w",
+      "2Kh8_NT44m4",
+      "mXJlJhHe6OA",
+      "BdR4STPI2ns",
+      "-aUHVOcsnRQ",
+      "TEFl-vVbHrE",
+      "rxPzZKCjIRA",
+      "pnoAAB9L4OE",
+      "otecqTX8kdg",
+      "xc3Bsex15fc",
+      "tbTdKDUK8PQ",
+      "a1dVtpA9ES8",
+      "wk-ca2MPYWw",
+      "ppC9a5-Cle0",
+      "BTo_pfe8gSc",
+      "Fq7YnzT13sA",
+      "19AUlTi-Ki8",
+      "HI3IuextGpc",
+      "ZWE-3QsH17w",
+      "PEhOF4vGZas",
+      "3DvmnCKlxdQ",
+      "fPrSypBoWuA",
+      "4D6bAf9BSIo",
+      "DlwsYrtZFas"
+    ],
+    "last_episode_number": 34
+  },
+  "episodes": [
+    {
+      "episode": 11,
+      "title": "GitHub Trending Today #11: SyncKit, RepoMind, Vex, runprompt, Markdown Viewer, beads_viewer, Pulse",
+      "upload_date": "2025-11-29",
+      "youtube_url": "https://www.youtube.com/watch?v=wu3522-is9w",
+      "video_id": "wu3522-is9w"
+    },
+    {
+      "episode": 12,
+      "title": "GitHub Trending Today #12: data-peek, Nano PDF Editor, OpenAdServer, gmail-cleaner, MCPorter, numr",
+      "upload_date": "2025-12-01",
+      "youtube_url": "https://www.youtube.com/watch?v=2Kh8_NT44m4",
+      "video_id": "2Kh8_NT44m4"
+    },
+    {
+      "episode": 13,
+      "title": "GitHub Trending Today #13: react2shell-scanner, Paper2Slides, CloudMeet, Openinary, pbnj, try-cli",
+      "upload_date": "2025-12-09",
+      "youtube_url": "https://www.youtube.com/watch?v=mXJlJhHe6OA",
+      "video_id": "mXJlJhHe6OA"
+    },
+    {
+      "episode": 14,
+      "title": "GitHub Trending Today #14: Tock, CLAWDIS, Chorus, macUSB, tenk, ProxyChecker, Stepifi, toMCP, shout",
+      "upload_date": "2025-12-15",
+      "youtube_url": "https://www.youtube.com/watch?v=BdR4STPI2ns",
+      "video_id": "BdR4STPI2ns"
+    },
+    {
+      "episode": 15,
+      "title": "GitHub Trending Today #15: tinypdf, Conductor, ovim, Lightron, History LLMs, Fuzzy Canary, ClaudeBar",
+      "upload_date": "2025-12-22",
+      "youtube_url": "https://www.youtube.com/watch?v=-aUHVOcsnRQ",
+      "video_id": "-aUHVOcsnRQ"
+    },
+    {
+      "episode": 16,
+      "title": "GitHub Trending Today #16: NodeCast TV, mapcn, TuxMate, Keeper, chess-tui, Rackula, BackApp, witr",
+      "upload_date": "2025-12-29",
+      "youtube_url": "https://www.youtube.com/watch?v=TEFl-vVbHrE",
+      "video_id": "TEFl-vVbHrE"
+    },
+    {
+      "episode": 17,
+      "title": "GitHub Trending Today #17: Claude HUD, Hacker Book, taws, Maestro, rustbpe, gh-issue-sync, CC-MIRROR",
+      "upload_date": "2026-01-06",
+      "youtube_url": "https://www.youtube.com/watch?v=rxPzZKCjIRA",
+      "video_id": "rxPzZKCjIRA"
+    },
+    {
+      "episode": 18,
+      "title": "GitHub Trending Today #18: PDFCraft, Engram, SimpleMem, whenwords, Better Shot, agent-browser, Sopro",
+      "upload_date": "2026-01-13",
+      "youtube_url": "https://www.youtube.com/watch?v=pnoAAB9L4OE",
+      "video_id": "pnoAAB9L4OE"
+    },
+    {
+      "episode": 19,
+      "title": "GitHub Trending Today #19: flux2.c, STFU, ttl, add-skill, HunspellColorize, openwork, HeartMuLa",
+      "upload_date": "2026-01-19",
+      "youtube_url": "https://www.youtube.com/watch?v=otecqTX8kdg",
+      "video_id": "otecqTX8kdg"
+    },
+    {
+      "episode": 20,
+      "title": "GitHub Trending Today #20: launchpad, posturr, PersonaPlex, critique, Frame, Just the Browser",
+      "upload_date": "2026-01-26",
+      "youtube_url": "https://www.youtube.com/watch?v=xc3Bsex15fc",
+      "video_id": "xc3Bsex15fc"
+    },
+    {
+      "episode": 21,
+      "title": "GitHub Trending Today #21: msgvault, ClawHub, Radar, MAHORAGA, LibPDF, Open Ralph Wiggum, Dash, TAKT",
+      "upload_date": "2026-02-03",
+      "youtube_url": "https://www.youtube.com/watch?v=tbTdKDUK8PQ",
+      "video_id": "tbTdKDUK8PQ"
+    },
+    {
+      "episode": 22,
+      "title": "GitHub Trending Today #22: Vouch, VisionClaw, Ralph Playbook, x-research,  LocalGPT, ChernyCode",
+      "upload_date": "2026-02-10",
+      "youtube_url": "https://www.youtube.com/watch?v=a1dVtpA9ES8",
+      "video_id": "a1dVtpA9ES8"
+    },
+    {
+      "episode": 23,
+      "title": "GitHub Trending Today #23: portless, weathr, ZeroClaw, Agent Deck, oat, soundcn, memsearch, Rodney",
+      "upload_date": "2026-02-17",
+      "youtube_url": "https://www.youtube.com/watch?v=wk-ca2MPYWw",
+      "video_id": "wk-ca2MPYWw"
+    },
+    {
+      "episode": 24,
+      "title": "GitHub Trending Today #24: pinchtab, OpenPlanter, visual-json, ApplyPilot, MapToPoster JS, zclaw",
+      "upload_date": "2026-02-23",
+      "youtube_url": "https://www.youtube.com/watch?v=ppC9a5-Cle0",
+      "video_id": "ppC9a5-Cle0"
+    },
+    {
+      "episode": 25,
+      "title": "GitHub Trending Today #25: 34 Open Source Projects You Need to See This Week",
+      "upload_date": "2026-03-02",
+      "youtube_url": "https://www.youtube.com/watch?v=BTo_pfe8gSc",
+      "video_id": "BTo_pfe8gSc"
+    },
+    {
+      "episode": 26,
+      "title": "GitHub Trending Today #26: TerraInk, engram, Overstory, Open Terminal, discrawl, kula, rustc-php",
+      "upload_date": "2026-03-09",
+      "youtube_url": "https://www.youtube.com/watch?v=Fq7YnzT13sA",
+      "video_id": "Fq7YnzT13sA"
+    },
+    {
+      "episode": 27,
+      "title": "GitHub Trending Today #27: Ichinichi, Recordly, Notchi, gabagool, Antfly, Horizo​​n, Slug, Slim, Lux",
+      "upload_date": "2026-03-20",
+      "youtube_url": "https://www.youtube.com/watch?v=19AUlTi-Ki8",
+      "video_id": "19AUlTi-Ki8"
+    },
+    {
+      "episode": 28,
+      "title": "GitHub Trending Today #28: zeroboot, Folio, autonovel, ASCII Studio, Kimodo, Memoria, sonar, Chops",
+      "upload_date": "2026-03-23",
+      "youtube_url": "https://www.youtube.com/watch?v=HI3IuextGpc",
+      "video_id": "HI3IuextGpc"
+    },
+    {
+      "episode": 29,
+      "title": "GitHub Trending Today #29: Coasts, Agent, hermes-agent, Another, heerich.js, Notchy, hucre, Phantom",
+      "upload_date": "2026-03-31",
+      "youtube_url": "https://www.youtube.com/watch?v=ZWE-3QsH17w",
+      "video_id": "ZWE-3QsH17w"
+    },
+    {
+      "episode": 30,
+      "title": "GitHub Trending Today #30: clicky, Locker, graphify, qmd, parlor, gemma-gem, clawchief, KarpathyTalk",
+      "upload_date": "2026-04-08",
+      "youtube_url": "https://www.youtube.com/watch?v=PEhOF4vGZas",
+      "video_id": "PEhOF4vGZas"
+    },
+    {
+      "episode": 31,
+      "title": "GitHub Trending Today #31: wterm, openduck, termcn, GHFS, tegaki, xata, weft, Snapframe, lite-edit",
+      "upload_date": "2026-04-17",
+      "youtube_url": "https://www.youtube.com/watch?v=3DvmnCKlxdQ",
+      "video_id": "3DvmnCKlxdQ"
+    },
+    {
+      "episode": 32,
+      "title": "GitHub Trending Today #32: PPT-Design-Prompt, agent-simulator, cavemem, CrabTrap, OpenGame, LeanKG",
+      "upload_date": "2026-04-23",
+      "youtube_url": "https://www.youtube.com/watch?v=fPrSypBoWuA",
+      "video_id": "fPrSypBoWuA"
+    },
+    {
+      "episode": 33,
+      "title": "GitHub Trending Today #33: chromex, whatcable, link-cli, open-slide, serve-sim, baguette, TagTinker",
+      "upload_date": "2026-05-04",
+      "youtube_url": "https://www.youtube.com/watch?v=4D6bAf9BSIo",
+      "video_id": "4D6bAf9BSIo"
+    },
+    {
+      "episode": 34,
+      "title": "GitHub Trending Today #34: aipointer, rmux, Photo-agents, zerostack, opensquilla, files-sdk, concord",
+      "upload_date": "2026-05-26",
+      "youtube_url": "https://www.youtube.com/watch?v=DlwsYrtZFas",
+      "video_id": "DlwsYrtZFas"
+    }
+  ],
+  "repos": [
+    {
+      "name": "clawhub",
+      "url": "https://github.com/openclaw/clawhub",
+      "owner": "openclaw",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 6,
+      "episodes": [
+        21
+      ],
+      "first_seen": "2026-02-03",
+      "last_seen": "2026-02-03",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 21,
+          "video_id": "tbTdKDUK8PQ"
+        }
+      ]
+    },
+    {
+      "name": "holyclaude",
+      "url": "https://github.com/coderluii/holyclaude",
+      "owner": "coderluii",
+      "categories": [
+        "claude",
+        "coding_devtools",
+        "frontend_design"
+      ],
+      "score": 6,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "openclaw-deck",
+      "url": "https://github.com/kellyclaudeai/openclaw-deck",
+      "owner": "kellyclaudeai",
+      "categories": [
+        "agents",
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 6,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "swiftui-agent-skill",
+      "url": "https://github.com/twostraws/swiftui-agent-skill",
+      "owner": "twostraws",
+      "categories": [
+        "agents",
+        "skills_mcp",
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 6,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-peers-mcp",
+      "url": "https://github.com/louislva/claude-peers-mcp",
+      "owner": "louislva",
+      "categories": [
+        "claude",
+        "skills_mcp",
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 5,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "clawteam-openclaw",
+      "url": "https://github.com/win4r/clawteam-openclaw",
+      "owner": "win4r",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 5,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "figma-mcp-go",
+      "url": "https://github.com/vkhanhqui/figma-mcp-go",
+      "owner": "vkhanhqui",
+      "categories": [
+        "skills_mcp",
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 5,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "moltui",
+      "url": "https://github.com/kszenes/moltui",
+      "owner": "kszenes",
+      "categories": [
+        "agents",
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 5,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "openclaw-auto-dream",
+      "url": "https://github.com/leoyeai/openclaw-auto-dream",
+      "owner": "leoyeai",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 5,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "openclaw-rl",
+      "url": "https://github.com/gen-verse/openclaw-rl",
+      "owner": "gen-verse",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 5,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "project-dashboard",
+      "url": "https://github.com/jason-uxui/project-dashboard",
+      "owner": "jason-uxui",
+      "categories": [
+        "seo_marketing",
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 5,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "vex-tui",
+      "url": "https://github.com/codeone45/vex-tui",
+      "owner": "codeone45",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 5,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "1code",
+      "url": "https://github.com/21st-dev/1code",
+      "owner": "21st-dev",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "owner": "vercel-labs",
+      "categories": [
+        "agents",
+        "browser_automation",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [
+        18
+      ],
+      "first_seen": "2026-01-13",
+      "last_seen": "2026-01-13",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 18,
+          "video_id": "pnoAAB9L4OE"
+        }
+      ]
+    },
+    {
+      "name": "agent-simulator",
+      "url": "https://github.com/jasonkneen/agent-simulator",
+      "owner": "jasonkneen",
+      "categories": [
+        "agents",
+        "seo_marketing",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [
+        32
+      ],
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 32,
+          "video_id": "fPrSypBoWuA"
+        }
+      ]
+    },
+    {
+      "name": "agent-trace",
+      "url": "https://github.com/cursor/agent-trace",
+      "owner": "cursor",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "agents-cli",
+      "url": "https://github.com/google/agents-cli",
+      "owner": "google",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "aso-skills",
+      "url": "https://github.com/eronred/aso-skills",
+      "owner": "eronred",
+      "categories": [
+        "skills_mcp",
+        "seo_marketing",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-code-controller",
+      "url": "https://github.com/the-vibe-company/claude-code-controller",
+      "owner": "the-vibe-company",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-code-from-source",
+      "url": "https://github.com/alejandrobalderas/claude-code-from-source",
+      "owner": "alejandrobalderas",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-code-monitor",
+      "url": "https://github.com/onikan27/claude-code-monitor",
+      "owner": "onikan27",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-code-safety-net",
+      "url": "https://github.com/kenryu42/claude-code-safety-net",
+      "owner": "kenryu42",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-code-tips",
+      "url": "https://github.com/ykdojo/claude-code-tips",
+      "owner": "ykdojo",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-context-mode",
+      "url": "https://github.com/mksglu/claude-context-mode",
+      "owner": "mksglu",
+      "categories": [
+        "claude",
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-seo",
+      "url": "https://github.com/agricidaniel/claude-seo",
+      "owner": "agricidaniel",
+      "categories": [
+        "claude",
+        "seo_marketing",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-skill-app-onboarding-questionnaire",
+      "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+      "owner": "adamlyttleapps",
+      "categories": [
+        "claude",
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claudeusagetracker",
+      "url": "https://github.com/masorange/claudeusagetracker",
+      "owner": "masorange",
+      "categories": [
+        "claude",
+        "seo_marketing",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claw3d",
+      "url": "https://github.com/iamlukethedev/claw3d",
+      "owner": "iamlukethedev",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "clawpal",
+      "url": "https://github.com/zhixianio/clawpal",
+      "owner": "zhixianio",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "clawport-ui",
+      "url": "https://github.com/johnriceml/clawport-ui",
+      "owner": "johnriceml",
+      "categories": [
+        "agents",
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "cli",
+      "url": "https://github.com/larksuite/cli",
+      "owner": "larksuite",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [
+        13,
+        30,
+        33
+      ],
+      "first_seen": "2025-12-09",
+      "last_seen": "2026-05-04",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 13,
+          "video_id": "mXJlJhHe6OA"
+        }
+      ]
+    },
+    {
+      "name": "codeburn",
+      "url": "https://github.com/agentseal/codeburn",
+      "owner": "agentseal",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "owner": "openai",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "codex-plusplus",
+      "url": "https://github.com/b-nnett/codex-plusplus",
+      "owner": "b-nnett",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "codex-voice",
+      "url": "https://github.com/anthnykr/codex-voice",
+      "owner": "anthnykr",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "codexmonitor",
+      "url": "https://github.com/dimillian/codexmonitor",
+      "owner": "dimillian",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "contextplus",
+      "url": "https://github.com/forloopcodes/contextplus",
+      "owner": "forloopcodes",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "copaw",
+      "url": "https://github.com/agentscope-ai/copaw",
+      "owner": "agentscope-ai",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "design-os",
+      "url": "https://github.com/buildermethods/design-os",
+      "owner": "buildermethods",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [
+        32
+      ],
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 32,
+          "video_id": "fPrSypBoWuA"
+        }
+      ]
+    },
+    {
+      "name": "everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "owner": "affaan-m",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "hermes-agent",
+      "url": "https://github.com/nousresearch/hermes-agent",
+      "owner": "nousresearch",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [
+        29
+      ],
+      "first_seen": "2026-03-31",
+      "last_seen": "2026-03-31",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 29,
+          "video_id": "ZWE-3QsH17w"
+        }
+      ]
+    },
+    {
+      "name": "hermes-telegram-miniapp",
+      "url": "https://github.com/clawvader-tech/hermes-telegram-miniapp",
+      "owner": "clawvader-tech",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "htmx-vscode-toolkit",
+      "url": "https://github.com/atoolz/htmx-vscode-toolkit",
+      "owner": "atoolz",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "jcodemunch-mcp",
+      "url": "https://github.com/jgravelle/jcodemunch-mcp",
+      "owner": "jgravelle",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "mcp-cli",
+      "url": "https://github.com/philschmid/mcp-cli",
+      "owner": "philschmid",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "miditui",
+      "url": "https://github.com/minimaxir/miditui",
+      "owner": "minimaxir",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "obsidian-claude-code",
+      "url": "https://github.com/roasbeef/obsidian-claude-code",
+      "owner": "roasbeef",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "onecontext",
+      "url": "https://github.com/theagentcontextlab/onecontext",
+      "owner": "theagentcontextlab",
+      "categories": [
+        "agents",
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "open-codesign",
+      "url": "https://github.com/opencoworkai/open-codesign",
+      "owner": "opencoworkai",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "open-terminal",
+      "url": "https://github.com/open-webui/open-terminal",
+      "owner": "open-webui",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [
+        26
+      ],
+      "first_seen": "2026-03-09",
+      "last_seen": "2026-03-09",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 26,
+          "video_id": "Fq7YnzT13sA"
+        }
+      ]
+    },
+    {
+      "name": "ppt-design-prompt",
+      "url": "https://github.com/russell-cell/ppt-design-prompt",
+      "owner": "russell-cell",
+      "categories": [
+        "skills_mcp",
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [
+        32
+      ],
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 32,
+          "video_id": "fPrSypBoWuA"
+        }
+      ]
+    },
+    {
+      "name": "promptforge",
+      "url": "https://github.com/intelligencedev/promptforge",
+      "owner": "intelligencedev",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "sled",
+      "url": "https://github.com/layercodedev/sled",
+      "owner": "layercodedev",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "textual-sticky-notes-tui",
+      "url": "https://github.com/dengo07/textual-sticky-notes-tui",
+      "owner": "dengo07",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "tui-studio",
+      "url": "https://github.com/jalonsogo/tui-studio",
+      "owner": "jalonsogo",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "tuicr",
+      "url": "https://github.com/agavra/tuicr",
+      "owner": "agavra",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "vigil-tui",
+      "url": "https://github.com/gin-systems/vigil-tui",
+      "owner": "gin-systems",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "vscode-dark-islands",
+      "url": "https://github.com/bwya77/vscode-dark-islands",
+      "owner": "bwya77",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "windows-11-clipboard-history-for-linux",
+      "url": "https://github.com/gustavosett/windows-11-clipboard-history-for-linux",
+      "owner": "gustavosett",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "zeroclaw",
+      "url": "https://github.com/theonlyhennygod/zeroclaw",
+      "owner": "theonlyhennygod",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 4,
+      "episodes": [
+        23
+      ],
+      "first_seen": "2026-02-17",
+      "last_seen": "2026-02-17",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 23,
+          "video_id": "wk-ca2MPYWw"
+        }
+      ]
+    },
+    {
+      "name": "10x",
+      "url": "https://github.com/10x-app-builder/10x",
+      "owner": "10x-app-builder",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "activspot",
+      "url": "https://github.com/devvvmn/activspot",
+      "owner": "devvvmn",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "add-skill",
+      "url": "https://github.com/vercel-labs/add-skill",
+      "owner": "vercel-labs",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        19
+      ],
+      "first_seen": "2026-01-19",
+      "last_seen": "2026-01-19",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 19,
+          "video_id": "otecqTX8kdg"
+        }
+      ]
+    },
+    {
+      "name": "agent-commands",
+      "url": "https://github.com/mitsuhiko/agent-commands",
+      "owner": "mitsuhiko",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "agent-deck",
+      "url": "https://github.com/asheshgoplani/agent-deck",
+      "owner": "asheshgoplani",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        23
+      ],
+      "first_seen": "2026-02-17",
+      "last_seen": "2026-02-17",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 23,
+          "video_id": "wk-ca2MPYWw"
+        }
+      ]
+    },
+    {
+      "name": "agent-flow",
+      "url": "https://github.com/patoles/agent-flow",
+      "owner": "patoles",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "agent-vault",
+      "url": "https://github.com/botiverse/agent-vault",
+      "owner": "botiverse",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "agentchattr",
+      "url": "https://github.com/bcurts/agentchattr",
+      "owner": "bcurts",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "agentic-data-scientist",
+      "url": "https://github.com/k-dense-ai/agentic-data-scientist",
+      "owner": "k-dense-ai",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "agentic-video-editor",
+      "url": "https://github.com/poseljacob/agentic-video-editor",
+      "owner": "poseljacob",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "agentlytics",
+      "url": "https://github.com/f/agentlytics",
+      "owner": "f",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "agents-best-practices",
+      "url": "https://github.com/denissergeevitch/agents-best-practices",
+      "owner": "denissergeevitch",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "ai-website-cloner-template",
+      "url": "https://github.com/jcodesmore/ai-website-cloner-template",
+      "owner": "jcodesmore",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "altimate-code",
+      "url": "https://github.com/altimateai/altimate-code",
+      "owner": "altimateai",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "antigravity-claude-proxy",
+      "url": "https://github.com/badrisnarayanan/antigravity-claude-proxy",
+      "owner": "badrisnarayanan",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "antigravity-claw",
+      "url": "https://github.com/deborahikssv/antigravity-claw",
+      "owner": "deborahikssv",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "app-store-preflight-skills",
+      "url": "https://github.com/truongduy2611/app-store-preflight-skills",
+      "owner": "truongduy2611",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "autocoder",
+      "url": "https://github.com/leonvanzyl/autocoder",
+      "owner": "leonvanzyl",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "autopreso",
+      "url": "https://github.com/kunchenguid/autopreso",
+      "owner": "kunchenguid",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "awesome-nano-banana-pro-prompts",
+      "url": "https://github.com/youmind-openlab/awesome-nano-banana-pro-prompts",
+      "owner": "youmind-openlab",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "background-agents",
+      "url": "https://github.com/colemurray/background-agents",
+      "owner": "colemurray",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "badclaude",
+      "url": "https://github.com/gitfrog1111/badclaude",
+      "owner": "gitfrog1111",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "browser-harness-js",
+      "url": "https://github.com/browser-use/browser-harness-js",
+      "owner": "browser-use",
+      "categories": [
+        "browser_automation",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "chernycode",
+      "url": "https://github.com/meleantonio/chernycode",
+      "owner": "meleantonio",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        22
+      ],
+      "first_seen": "2026-02-10",
+      "last_seen": "2026-02-10",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 22,
+          "video_id": "a1dVtpA9ES8"
+        }
+      ]
+    },
+    {
+      "name": "claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
+      "url": "https://github.com/vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
+      "owner": "vthinkxie",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-forge",
+      "url": "https://github.com/sangrokjung/claude-forge",
+      "owner": "sangrokjung",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-p",
+      "url": "https://github.com/smithersai/claude-p",
+      "owner": "smithersai",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        17
+      ],
+      "first_seen": "2026-01-06",
+      "last_seen": "2026-01-06",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 17,
+          "video_id": "rxPzZKCjIRA"
+        }
+      ]
+    },
+    {
+      "name": "claude-pulse",
+      "url": "https://github.com/noobygains/claude-pulse",
+      "owner": "noobygains",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-reflect",
+      "url": "https://github.com/bayramannakov/claude-reflect",
+      "owner": "bayramannakov",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-replay",
+      "url": "https://github.com/es617/claude-replay",
+      "owner": "es617",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-task-viewer",
+      "url": "https://github.com/l1ad/claude-task-viewer",
+      "owner": "l1ad",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-token-efficient",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "owner": "drona23",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claude-watch",
+      "url": "https://github.com/shobhit99/claude-watch",
+      "owner": "shobhit99",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "claudebar",
+      "url": "https://github.com/tddworks/claudebar",
+      "owner": "tddworks",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        15
+      ],
+      "first_seen": "2025-12-22",
+      "last_seen": "2025-12-22",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 15,
+          "video_id": "-aUHVOcsnRQ"
+        }
+      ]
+    },
+    {
+      "name": "clawbox",
+      "url": "https://github.com/joshavant/clawbox",
+      "owner": "joshavant",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "clawchief",
+      "url": "https://github.com/snarktank/clawchief",
+      "owner": "snarktank",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        30
+      ],
+      "first_seen": "2026-04-08",
+      "last_seen": "2026-04-08",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 30,
+          "video_id": "PEhOF4vGZas"
+        }
+      ]
+    },
+    {
+      "name": "clawdbot",
+      "url": "https://github.com/clawdbot/clawdbot",
+      "owner": "clawdbot",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "codeindex",
+      "url": "https://github.com/scheidydude/codeindex",
+      "owner": "scheidydude",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "codeisland",
+      "url": "https://github.com/wxtsky/codeisland",
+      "owner": "wxtsky",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "codepilot",
+      "url": "https://github.com/op7418/codepilot",
+      "owner": "op7418",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "comimi",
+      "url": "https://github.com/yui540/comimi",
+      "owner": "yui540",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "context-gateway",
+      "url": "https://github.com/compresr-ai/context-gateway",
+      "owner": "compresr-ai",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "contextengine",
+      "url": "https://github.com/pewejekubam/contextengine",
+      "owner": "pewejekubam",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "create-context-graph",
+      "url": "https://github.com/neo4j-labs/create-context-graph",
+      "owner": "neo4j-labs",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "database-skills",
+      "url": "https://github.com/planetscale/database-skills",
+      "owner": "planetscale",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "deepclaude",
+      "url": "https://github.com/aattaran/deepclaude",
+      "owner": "aattaran",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "design-extract",
+      "url": "https://github.com/manavarya09/design-extract",
+      "owner": "manavarya09",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "dev-janitor",
+      "url": "https://github.com/cocojojo5213/dev-janitor",
+      "owner": "cocojojo5213",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "devl.dev",
+      "url": "https://github.com/sean-brydon/devl.dev",
+      "owner": "sean-brydon",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "devops-interviews",
+      "url": "https://github.com/devops-interviews/devops-interviews",
+      "owner": "devops-interviews",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "distracted",
+      "url": "https://github.com/f1shy-dev/distracted",
+      "owner": "f1shy-dev",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "drift",
+      "url": "https://github.com/dadbodgeoff/drift",
+      "owner": "dadbodgeoff",
+      "categories": [
+        "seo_marketing",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "einui",
+      "url": "https://github.com/ehsanghaffar/einui",
+      "owner": "ehsanghaffar",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "elephant-agent",
+      "url": "https://github.com/agentic-in/elephant-agent",
+      "owner": "agentic-in",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "emojidb",
+      "url": "https://github.com/ikwerre-dev/emojidb",
+      "owner": "ikwerre-dev",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "excalidraw-mcp-app",
+      "url": "https://github.com/antonpk1/excalidraw-mcp-app",
+      "owner": "antonpk1",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "expo-agent-spinners",
+      "url": "https://github.com/eronred/expo-agent-spinners",
+      "owner": "eronred",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "fastcode",
+      "url": "https://github.com/hkuds/fastcode",
+      "owner": "hkuds",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "flux2.c",
+      "url": "https://github.com/antirez/flux2.c",
+      "owner": "antirez",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        19
+      ],
+      "first_seen": "2026-01-19",
+      "last_seen": "2026-01-19",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 19,
+          "video_id": "otecqTX8kdg"
+        }
+      ]
+    },
+    {
+      "name": "friendmaker",
+      "url": "https://github.com/zhouxiyu1997/friendmaker",
+      "owner": "zhouxiyu1997",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "fynt",
+      "url": "https://github.com/abhinavkale-dev/fynt",
+      "owner": "abhinavkale-dev",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "geometric-constraint-solver",
+      "url": "https://github.com/kasznar/geometric-constraint-solver",
+      "owner": "kasznar",
+      "categories": [
+        "seo_marketing",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "gitagent",
+      "url": "https://github.com/open-gitagent/gitagent",
+      "owner": "open-gitagent",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "gnhf",
+      "url": "https://github.com/kunchenguid/gnhf",
+      "owner": "kunchenguid",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "gsap-skills",
+      "url": "https://github.com/greensock/gsap-skills",
+      "owner": "greensock",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "hucre",
+      "url": "https://github.com/productdevbook/hucre",
+      "owner": "productdevbook",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        29
+      ],
+      "first_seen": "2026-03-31",
+      "last_seen": "2026-03-31",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 29,
+          "video_id": "ZWE-3QsH17w"
+        }
+      ]
+    },
+    {
+      "name": "ironclaw",
+      "url": "https://github.com/nearai/ironclaw",
+      "owner": "nearai",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "joko-ui",
+      "url": "https://github.com/rayasabari/joko-ui",
+      "owner": "rayasabari",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "jrvs",
+      "url": "https://github.com/xthebuilder/jrvs",
+      "owner": "xthebuilder",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "just-the-browser",
+      "url": "https://github.com/corbindavenport/just-the-browser",
+      "owner": "corbindavenport",
+      "categories": [
+        "browser_automation",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        20
+      ],
+      "first_seen": "2026-01-26",
+      "last_seen": "2026-01-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 20,
+          "video_id": "xc3Bsex15fc"
+        }
+      ]
+    },
+    {
+      "name": "justjshtml",
+      "url": "https://github.com/simonw/justjshtml",
+      "owner": "simonw",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "llm-circuit-finder",
+      "url": "https://github.com/alainnothere/llm-circuit-finder",
+      "owner": "alainnothere",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "ludus-fastmcp",
+      "url": "https://github.com/tjnull/ludus-fastmcp",
+      "owner": "tjnull",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "lux",
+      "url": "https://github.com/lux-db/lux",
+      "owner": "lux-db",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        19,
+        27
+      ],
+      "first_seen": "2026-01-19",
+      "last_seen": "2026-03-20",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 19,
+          "video_id": "otecqTX8kdg"
+        }
+      ]
+    },
+    {
+      "name": "markdown-site",
+      "url": "https://github.com/waynesutton/markdown-site",
+      "owner": "waynesutton",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "mathcode",
+      "url": "https://github.com/math-ai-org/mathcode",
+      "owner": "math-ai-org",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "md2html",
+      "url": "https://github.com/haidang1810/md2html",
+      "owner": "haidang1810",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "medal-forge",
+      "url": "https://github.com/catsjuice/medal-forge",
+      "owner": "catsjuice",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "medgeclaw",
+      "url": "https://github.com/xjtulyc/medgeclaw",
+      "owner": "xjtulyc",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "mercury-agent",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "owner": "cosmicstack-labs",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "mineru-html",
+      "url": "https://github.com/opendatalab/mineru-html",
+      "owner": "opendatalab",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "mini-coding-agent",
+      "url": "https://github.com/rasbt/mini-coding-agent",
+      "owner": "rasbt",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "nanocode",
+      "url": "https://github.com/1rgs/nanocode",
+      "owner": "1rgs",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "notchprompter",
+      "url": "https://github.com/jpomykala/notchprompter",
+      "owner": "jpomykala",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "npmx.dev",
+      "url": "https://github.com/danielroe/npmx.dev",
+      "owner": "danielroe",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "nw_wrld",
+      "url": "https://github.com/aagentah/nw_wrld",
+      "owner": "aagentah",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "onlyfans-scraper",
+      "url": "https://github.com/kr4ude/onlyfans-scraper",
+      "owner": "kr4ude",
+      "categories": [
+        "browser_automation",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "open-claude",
+      "url": "https://github.com/tkattkat/open-claude",
+      "owner": "tkattkat",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "open-design",
+      "url": "https://github.com/nexu-io/open-design",
+      "owner": "nexu-io",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "open-slide",
+      "url": "https://github.com/1weiho/open-slide",
+      "owner": "1weiho",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        33
+      ],
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 33,
+          "video_id": "4D6bAf9BSIo"
+        }
+      ]
+    },
+    {
+      "name": "openclaude-portable",
+      "url": "https://github.com/techjarves/openclaude-portable",
+      "owner": "techjarves",
+      "categories": [
+        "claude",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "openguider",
+      "url": "https://github.com/mo-tunn/openguider",
+      "owner": "mo-tunn",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "opensquilla",
+      "url": "https://github.com/opensquilla/opensquilla",
+      "owner": "opensquilla",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        34
+      ],
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 34,
+          "video_id": "DlwsYrtZFas"
+        }
+      ]
+    },
+    {
+      "name": "paper-dl",
+      "url": "https://github.com/ruizelyu/paper-dl",
+      "owner": "ruizelyu",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "paper2slides",
+      "url": "https://github.com/hkuds/paper2slides",
+      "owner": "hkuds",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        13
+      ],
+      "first_seen": "2025-12-09",
+      "last_seen": "2025-12-09",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 13,
+          "video_id": "mXJlJhHe6OA"
+        }
+      ]
+    },
+    {
+      "name": "parallel-code",
+      "url": "https://github.com/johannesjo/parallel-code",
+      "owner": "johannesjo",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "particulate",
+      "url": "https://github.com/ruiningli/particulate",
+      "owner": "ruiningli",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "pdf-sign",
+      "url": "https://github.com/0x77dev/pdf-sign",
+      "owner": "0x77dev",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "pdf-slides-to-hand-outs",
+      "url": "https://github.com/flodlol/pdf-slides-to-hand-outs",
+      "owner": "flodlol",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "photo-agents",
+      "url": "https://github.com/jmerelnyc/photo-agents",
+      "owner": "jmerelnyc",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        34
+      ],
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 34,
+          "video_id": "DlwsYrtZFas"
+        }
+      ]
+    },
+    {
+      "name": "picobot",
+      "url": "https://github.com/louisho5/picobot",
+      "owner": "louisho5",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "posturr",
+      "url": "https://github.com/tldev/posturr",
+      "owner": "tldev",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        20
+      ],
+      "first_seen": "2026-01-26",
+      "last_seen": "2026-01-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 20,
+          "video_id": "xc3Bsex15fc"
+        }
+      ]
+    },
+    {
+      "name": "prax-agent",
+      "url": "https://github.com/channinglua/prax-agent",
+      "owner": "channinglua",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "pretty-mermaid-skills",
+      "url": "https://github.com/imxv/pretty-mermaid-skills",
+      "owner": "imxv",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "reactmotion",
+      "url": "https://github.com/awakening-ai/reactmotion",
+      "owner": "awakening-ai",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "reddit-universal-scraper",
+      "url": "https://github.com/ksanjeev284/reddit-universal-scraper",
+      "owner": "ksanjeev284",
+      "categories": [
+        "browser_automation",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "remote-agentic-coding-system",
+      "url": "https://github.com/coleam00/remote-agentic-coding-system",
+      "owner": "coleam00",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "rmux",
+      "url": "https://github.com/helvesec/rmux",
+      "owner": "helvesec",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        34
+      ],
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-05-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 34,
+          "video_id": "DlwsYrtZFas"
+        }
+      ]
+    },
+    {
+      "name": "roam-code",
+      "url": "https://github.com/cranot/roam-code",
+      "owner": "cranot",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "routilux",
+      "url": "https://github.com/lzjever/routilux",
+      "owner": "lzjever",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "runbookhermes",
+      "url": "https://github.com/tommy-yw/runbookhermes",
+      "owner": "tommy-yw",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "runprompt",
+      "url": "https://github.com/chr15m/runprompt",
+      "owner": "chr15m",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        11
+      ],
+      "first_seen": "2025-11-29",
+      "last_seen": "2025-11-29",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 11,
+          "video_id": "wu3522-is9w"
+        }
+      ]
+    },
+    {
+      "name": "sentrux",
+      "url": "https://github.com/sentrux/sentrux",
+      "owner": "sentrux",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "showui-aloha",
+      "url": "https://github.com/showlab/showui-aloha",
+      "owner": "showlab",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "skill-compose",
+      "url": "https://github.com/moosegoose0701/skill-compose",
+      "owner": "moosegoose0701",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "slopless",
+      "url": "https://github.com/seochecks-ai/slopless",
+      "owner": "seochecks-ai",
+      "categories": [
+        "seo_marketing",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "slowbooks-pro-2026",
+      "url": "https://github.com/vonholtencodes/slowbooks-pro-2026",
+      "owner": "vonholtencodes",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "smallclaw",
+      "url": "https://github.com/xposemarket/smallclaw",
+      "owner": "xposemarket",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "smallcode",
+      "url": "https://github.com/doorman11991/smallcode",
+      "owner": "doorman11991",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "synckit",
+      "url": "https://github.com/dancode-188/synckit",
+      "owner": "dancode-188",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        11
+      ],
+      "first_seen": "2025-11-29",
+      "last_seen": "2025-11-29",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 11,
+          "video_id": "wu3522-is9w"
+        }
+      ]
+    },
+    {
+      "name": "system-design-visualizer",
+      "url": "https://github.com/mallahyari/system-design-visualizer",
+      "owner": "mallahyari",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "tailwindsql",
+      "url": "https://github.com/mmarinovic/tailwindsql",
+      "owner": "mmarinovic",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "terminui",
+      "url": "https://github.com/ahmadawais/terminui",
+      "owner": "ahmadawais",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "text2geo",
+      "url": "https://github.com/charonviz/text2geo",
+      "owner": "charonviz",
+      "categories": [
+        "seo_marketing",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "the-rosetta-prompt",
+      "url": "https://github.com/muratcankoylan/the-rosetta-prompt",
+      "owner": "muratcankoylan",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "threejs-skills",
+      "url": "https://github.com/cloudai-x/threejs-skills",
+      "owner": "cloudai-x",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "tinyclaw",
+      "url": "https://github.com/jlia0/tinyclaw",
+      "owner": "jlia0",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "tomcp",
+      "url": "https://github.com/ami3466/tomcp",
+      "owner": "ami3466",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        14
+      ],
+      "first_seen": "2025-12-15",
+      "last_seen": "2025-12-15",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 14,
+          "video_id": "BdR4STPI2ns"
+        }
+      ]
+    },
+    {
+      "name": "two-moons",
+      "url": "https://github.com/moayuisuda/two-moons",
+      "owner": "moayuisuda",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "ui",
+      "url": "https://github.com/pacifio/ui",
+      "owner": "pacifio",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        16,
+        34
+      ],
+      "first_seen": "2025-12-29",
+      "last_seen": "2026-05-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 16,
+          "video_id": "TEFl-vVbHrE"
+        }
+      ]
+    },
+    {
+      "name": "ultimate-linux",
+      "url": "https://github.com/popovicu/ultimate-linux",
+      "owner": "popovicu",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "uncodixfy",
+      "url": "https://github.com/cyxzdev/uncodixfy",
+      "owner": "cyxzdev",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "vibecode-cleaner-fartrun",
+      "url": "https://github.com/chuprinadaria/vibecode-cleaner-fartrun",
+      "owner": "chuprinadaria",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "vibra-code",
+      "url": "https://github.com/sa4hnd/vibra-code",
+      "owner": "sa4hnd",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "owner": "browser-use",
+      "categories": [
+        "browser_automation",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "visionclaw",
+      "url": "https://github.com/sseanliu/visionclaw",
+      "owner": "sseanliu",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        22
+      ],
+      "first_seen": "2026-02-10",
+      "last_seen": "2026-02-10",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 22,
+          "video_id": "a1dVtpA9ES8"
+        }
+      ]
+    },
+    {
+      "name": "vortexl2",
+      "url": "https://github.com/iliya-developer/vortexl2",
+      "owner": "iliya-developer",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "web3-decoder",
+      "url": "https://github.com/classicshi/web3-decoder",
+      "owner": "classicshi",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "winslop",
+      "url": "https://github.com/builtbybel/winslop",
+      "owner": "builtbybel",
+      "categories": [
+        "frontend_design",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "x-research-skill",
+      "url": "https://github.com/rohunvora/x-research-skill",
+      "owner": "rohunvora",
+      "categories": [
+        "skills_mcp",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [],
+      "first_seen": "2025-11-26",
+      "last_seen": "2025-11-26",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": null,
+          "video_id": null
+        }
+      ]
+    },
+    {
+      "name": "zclaw",
+      "url": "https://github.com/tnm/zclaw",
+      "owner": "tnm",
+      "categories": [
+        "agents",
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        24
+      ],
+      "first_seen": "2026-02-23",
+      "last_seen": "2026-02-23",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 24,
+          "video_id": "ppC9a5-Cle0"
+        }
+      ]
+    },
+    {
+      "name": "zeroboot",
+      "url": "https://github.com/zerobootdev/zeroboot",
+      "owner": "zerobootdev",
+      "categories": [
+        "coding_devtools"
+      ],
+      "score": 3,
+      "episodes": [
+        28
+      ],
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "sources": [
+        {
+          "type": "bootstrap",
+          "episode": 28,
+          "video_id": "HI3IuextGpc"
+        }
+      ]
+    }
+  ]
+}

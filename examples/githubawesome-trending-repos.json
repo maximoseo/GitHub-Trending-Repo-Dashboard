@@ -1,0 +1,151 @@
+{
+  "generated_at": "2026-05-28T06:55:17.631372Z",
+  "cutoff": "2025-11-26",
+  "episodes_in_window": [
+    {
+      "id": "wu3522-is9w",
+      "episode": 11,
+      "title": "GitHub Trending Today #11: SyncKit, RepoMind, Vex, runprompt, Markdown Viewer, beads_viewer, Pulse",
+      "upload_date": "2025-11-29"
+    },
+    {
+      "id": "2Kh8_NT44m4",
+      "episode": 12,
+      "title": "GitHub Trending Today #12: data-peek, Nano PDF Editor, OpenAdServer, gmail-cleaner, MCPorter, numr",
+      "upload_date": "2025-12-01"
+    },
+    {
+      "id": "mXJlJhHe6OA",
+      "episode": 13,
+      "title": "GitHub Trending Today #13: react2shell-scanner, Paper2Slides, CloudMeet, Openinary, pbnj, try-cli",
+      "upload_date": "2025-12-09"
+    },
+    {
+      "id": "BdR4STPI2ns",
+      "episode": 14,
+      "title": "GitHub Trending Today #14: Tock, CLAWDIS, Chorus, macUSB, tenk, ProxyChecker, Stepifi, toMCP, shout",
+      "upload_date": "2025-12-15"
+    },
+    {
+      "id": "-aUHVOcsnRQ",
+      "episode": 15,
+      "title": "GitHub Trending Today #15: tinypdf, Conductor, ovim, Lightron, History LLMs, Fuzzy Canary, ClaudeBar",
+      "upload_date": "2025-12-22"
+    },
+    {
+      "id": "TEFl-vVbHrE",
+      "episode": 16,
+      "title": "GitHub Trending Today #16: NodeCast TV, mapcn, TuxMate, Keeper, chess-tui, Rackula, BackApp, witr",
+      "upload_date": "2025-12-29"
+    },
+    {
+      "id": "rxPzZKCjIRA",
+      "episode": 17,
+      "title": "GitHub Trending Today #17: Claude HUD, Hacker Book, taws, Maestro, rustbpe, gh-issue-sync, CC-MIRROR",
+      "upload_date": "2026-01-06"
+    },
+    {
+      "id": "pnoAAB9L4OE",
+      "episode": 18,
+      "title": "GitHub Trending Today #18: PDFCraft, Engram, SimpleMem, whenwords, Better Shot, agent-browser, Sopro",
+      "upload_date": "2026-01-13"
+    },
+    {
+      "id": "otecqTX8kdg",
+      "episode": 19,
+      "title": "GitHub Trending Today #19: flux2.c, STFU, ttl, add-skill, HunspellColorize, openwork, HeartMuLa",
+      "upload_date": "2026-01-19"
+    },
+    {
+      "id": "xc3Bsex15fc",
+      "episode": 20,
+      "title": "GitHub Trending Today #20: launchpad, posturr, PersonaPlex, critique, Frame, Just the Browser",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "id": "tbTdKDUK8PQ",
+      "episode": 21,
+      "title": "GitHub Trending Today #21: msgvault, ClawHub, Radar, MAHORAGA, LibPDF, Open Ralph Wiggum, Dash, TAKT",
+      "upload_date": "2026-02-03"
+    },
+    {
+      "id": "a1dVtpA9ES8",
+      "episode": 22,
+      "title": "GitHub Trending Today #22: Vouch, VisionClaw, Ralph Playbook, x-research,  LocalGPT, ChernyCode",
+      "upload_date": "2026-02-10"
+    },
+    {
+      "id": "wk-ca2MPYWw",
+      "episode": 23,
+      "title": "GitHub Trending Today #23: portless, weathr, ZeroClaw, Agent Deck, oat, soundcn, memsearch, Rodney",
+      "upload_date": "2026-02-17"
+    },
+    {
+      "id": "ppC9a5-Cle0",
+      "episode": 24,
+      "title": "GitHub Trending Today #24: pinchtab, OpenPlanter, visual-json, ApplyPilot, MapToPoster JS, zclaw",
+      "upload_date": "2026-02-23"
+    },
+    {
+      "id": "BTo_pfe8gSc",
+      "episode": 25,
+      "title": "GitHub Trending Today #25: 34 Open Source Projects You Need to See This Week",
+      "upload_date": "2026-03-02"
+    },
+    {
+      "id": "Fq7YnzT13sA",
+      "episode": 26,
+      "title": "GitHub Trending Today #26: TerraInk, engram, Overstory, Open Terminal, discrawl, kula, rustc-php",
+      "upload_date": "2026-03-09"
+    },
+    {
+      "id": "19AUlTi-Ki8",
+      "episode": 27,
+      "title": "GitHub Trending Today #27: Ichinichi, Recordly, Notchi, gabagool, Antfly, Horizo\u200b\u200bn, Slug, Slim, Lux",
+      "upload_date": "2026-03-20"
+    },
+    {
+      "id": "HI3IuextGpc",
+      "episode": 28,
+      "title": "GitHub Trending Today #28: zeroboot, Folio, autonovel, ASCII Studio, Kimodo, Memoria, sonar, Chops",
+      "upload_date": "2026-03-23"
+    },
+    {
+      "id": "ZWE-3QsH17w",
+      "episode": 29,
+      "title": "GitHub Trending Today #29: Coasts, Agent, hermes-agent, Another, heerich.js, Notchy, hucre, Phantom",
+      "upload_date": "2026-03-31"
+    },
+    {
+      "id": "PEhOF4vGZas",
+      "episode": 30,
+      "title": "GitHub Trending Today #30: clicky, Locker, graphify, qmd, parlor, gemma-gem, clawchief, KarpathyTalk",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "id": "3DvmnCKlxdQ",
+      "episode": 31,
+      "title": "GitHub Trending Today #31: wterm, openduck, termcn, GHFS, tegaki, xata, weft, Snapframe, lite-edit",
+      "upload_date": "2026-04-17"
+    },
+    {
+      "id": "fPrSypBoWuA",
+      "episode": 32,
+      "title": "GitHub Trending Today #32: PPT-Design-Prompt, agent-simulator, cavemem, CrabTrap, OpenGame, LeanKG",
+      "upload_date": "2026-04-23"
+    },
+    {
+      "id": "4D6bAf9BSIo",
+      "episode": 33,
+      "title": "GitHub Trending Today #33: chromex, whatcable, link-cli, open-slide, serve-sim, baguette, TagTinker",
+      "upload_date": "2026-05-04"
+    },
+    {
+      "id": "DlwsYrtZFas",
+      "episode": 34,
+      "title": "GitHub Trending Today #34: aipointer, rmux, Photo-agents, zerostack, opensquilla, files-sdk, concord",
+      "upload_date": "2026-05-26"
+    }
+  ],
+  "repo_count": 754
+}
